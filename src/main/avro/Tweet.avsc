@@ -1,6 +1,6 @@
 {"namespace": "com.avro.trial.schema",
  "type": "record",
- "name": "Tweet",
+ "name": "GetUserTweet",
  "fields": [
      {"name": "tweetId", "type": "int"},
      {"name": "user", "type": "string"},
